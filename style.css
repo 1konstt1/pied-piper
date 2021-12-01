@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    pading: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #007765;
+    margin-top: 6px;
+}
+.logo {
+    padding-left: 501px;
+    margin-top: 11px;
+    float: left;
+}
+nav{
+    padding-top: 20px;
+    padding-bottom: 14px;
+    font-size: 24px;
+}
+nav ul li {
+    display: inline;
+    color: #FFFFFF;
+    list-style: none;
+    
+
+}
+main {
+
+}
